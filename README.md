@@ -75,18 +75,6 @@ I am a developer passionate about building intelligent systems, scalable web app
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SomaPrasanth&show_icons=true&locale=en&theme=tokyonight" height="160" alt="SomaPrasanth stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SomaPrasanth&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="160" alt="SomaPrasanth top languages" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SomaPrasanthR&theme=tokyonight" height="160" alt="SomaPrasanthR streak" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 📫 Let's Connect
 
