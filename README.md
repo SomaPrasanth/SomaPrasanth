@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋 I'm Soma Prasanth R
 
-<!--
-**SomaPrasanth/SomaPrasanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer passionate about building intelligent systems, scalable web applications, and productivity tools. My work spans across full-stack development.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack & Tools:
+*   **Frontend:** React, JavaScript, HTML, CSS
+*   **Backend:** Python (Flask, FastAPI), Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🚀 Highlighted Projects:
+*   **Meeting Summarizer:**  A tool that processes transcripts to automatically extract key action items and generate concise meeting summaries.
+*   **Email Organizer:** An automated application designed to efficiently categorize, filter, and manage inbox clutter.
+*   **CrackIT:** A comprehensive interview experience hub.
+*   **Interview Practice Simulator:** A web application utilizing voice recording and AI-driven feedback to simulate realistic job interview environments.
+
+### 📫 Let's Connect:
+*   **LinkedIn:** [Click here](https://www.linkedin.com/in/somaprasanthr/)
+*   **Email:** [somaprasanthr@gmail.com](mailto:somaprasanthr@gmail.com)
+
+---
+*⚡ "Always learning, always building."*
+
